@@ -1,0 +1,48 @@
+.sheet {
+  display: grid;
+}
+.image {
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 5px;
+}
+.main-header {
+  padding-top: 15px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 40px;
+}
+.bottom-left {
+  color: white;
+  position: absolute;
+  bottom: 5px;
+  left: 30px;
+  padding-left: 20px;
+  font-weight: 900;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.text-box {
+  bottom: 2px;
+  border: 1px solid black;
+  right: 20px;
+  background-color: rgb(219, 216, 216);
+  color: black;
+  padding-left: 5px;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  padding-right: 40px;
+}
+.pic1 {
+  background-image: url("main1\ \(2\).jpg");
+}
+
+.pic2 {
+  background-image: url("two.jpg");
+}
+
+.pic3 {
+  background-image: url("five.jpg");
+}
